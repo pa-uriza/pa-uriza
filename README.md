@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👋
+
+I am a Mechanical and Industrial engineer who enjoys challenges and looks forward to learning new things all the time. I am interested in robotics, machine learning, and data science. I am keen to apply my knowledge in order to find efficient and creative solutions. I am motivated to work in multidisciplinary schemes in which I can learn from my co-workers. I am an organized and self-driven person, very dedicated to my work, that adapts easily to different responsibilities. Currently I am a Data Scientist and an Educator.
+
+🔭 I’m currently working on analytics techniques to create insights for policy making in transport and health.
+
+⚡ Programming skills: R, Python PyTorch, MatLab
 
 <!--
 **pa-uriza/pa-uriza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
