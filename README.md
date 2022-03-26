@@ -6,6 +6,8 @@ I am a Mechanical and Industrial engineer who enjoys challenges and looks forwar
 
 ⚡ Programming skills: R, Python PyTorch, MatLab
 
+https://pa-uriza.github.io
+
 <!--
 **pa-uriza/pa-uriza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
